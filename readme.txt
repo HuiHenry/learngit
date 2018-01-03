@@ -6,3 +6,4 @@ Creating a new branch is quick2.
 Creating a new branch is quick and simple.
 git dev commit a file
 Creating a new branch is quick & simple.
+
